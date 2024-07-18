@@ -1,5 +1,5 @@
-# Lesson Plan Template
-This file serves as the primary lesson plan document for the repository.
+# Editted for CSTA 2024
+This is updated as part of an exercise.
 
 ## Template Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
